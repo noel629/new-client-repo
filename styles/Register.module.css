@@ -1,0 +1,23 @@
+.a form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+}
+
+.a a {
+    text-decoration: none;
+}
+
+.a a:hover {
+    color: red;
+}
+
+.a {
+    background-image: url(https://media.lifehack.org/wp-content/uploads/2008/07/calendar-740x416.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.a h6{
+    color: white;
+}
